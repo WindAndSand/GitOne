@@ -29,3 +29,4 @@ print("number   7")
 
 
 
+print("you are fridendly")
