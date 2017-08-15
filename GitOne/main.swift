@@ -29,5 +29,5 @@ print("number   7")
 
 
 
-print("you are fridendly")
+print("you are fridendly 2222")
 print("You are vert good")
